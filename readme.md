@@ -15,21 +15,16 @@ A complete end-to-end Jupyter Notebook for training and evaluating custom spaCy 
 - Saved custom models (small and medium) for inference and testing
 
 ## Installation
-1. Clone the repository:
-```powershell
-git clone <your-repo-url>
-cd <your-repo-folder>
-```
-2. Create and activate a Python environment (recommended):
+1. Create and activate a Python environment (recommended):
 ```powershell
 conda create -n ner-env python=3.8
 conda activate ner-env
 ```
-3. Install dependencies:
+2. Install dependencies:
 ```powershell
 pip install -r requirements.txt
 ```
-4. Download the dataset files and place them in the expected folder (data loading paths specified in the notebook).
+3. Download the dataset files and place them in the expected folder (data loading paths specified in the notebook).
 
 ## Usage
 - Run the notebook to train NER models and evaluate their performance.
