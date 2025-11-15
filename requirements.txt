@@ -1,3 +1,4 @@
 spacy>=3.0.0
 kagglehub
 streamlit
+spacy download en_core_web_sm en_core_web_md
