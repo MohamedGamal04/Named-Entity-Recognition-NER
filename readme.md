@@ -32,10 +32,6 @@ pip install -r requirements.txt
 - Save and load custom trained models for prediction on new data.
 
 ## Dataset
-This project uses the CoNLL-2003 style English dataset for Named Entity Recognition, downloaded via Kaggle from the alaakhaled/conll003-englishversion dataset.
+This project uses the CoNLL-2003 style English dataset for Named Entity Recognition, downloaded via Kaggle from the [conll003 dataset](https://www.kaggle.com/datasets/alaakhaled/conll003-englishversion).
 
 ***
-
-Let me know if you want this shortened or expanded, or adapted to another style.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/68559943/727997e0-8235-4888-9d7e-2b84354755f2/Named-Entity-Recognition-NER-from-News-Articles.ipynb)
