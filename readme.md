@@ -2,7 +2,7 @@
 
 A complete end-to-end Jupyter Notebook for training and evaluating custom spaCy Named Entity Recognition (NER) models on news articles using the CoNLL-2003 style dataset. The project demonstrates data loading, preprocessing, formatting data for spaCy, training both small and medium spaCy models, evaluation on test sets, and visualization of extracted named entities using displaCy.
 
-Live demo : https://named-entity-recognition-ner-8iwyq8xxsu6lgrqngbyyq5.streamlit.app/
+Live demo : https://named-entity-recognition-ner-8iwyq8xxsu6lgrqngbyyq5.streamlit.app
 
 ## Features
 - Data loading and parsing from CoNLL-2003 style text files
